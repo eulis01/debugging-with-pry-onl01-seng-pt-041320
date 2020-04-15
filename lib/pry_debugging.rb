@@ -1,4 +1,4 @@
-def plus_two(num = 3)
+def plus_two(num )
 	puts 2 + num 
 	 num
 	 num
